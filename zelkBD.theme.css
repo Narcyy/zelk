@@ -77,7 +77,7 @@
   --background-message-hover: transparent;
   /* text */
   --text-normal: var(--accent-color);
-  --text-positive: var(--text-normal);
+  --text-positive: black;
   --text-muted: #6d8692;
   --text-link: #edf8fe;
   --interactive-selected: var(--background-primary);
